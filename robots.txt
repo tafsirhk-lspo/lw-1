@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsirhk-lspo.github.io/lw-1/sitemap.xml
